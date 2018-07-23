@@ -62,7 +62,7 @@ Payments.
 ```
 
 ```
-Show in Shops and payment? - if es, the merchant will be displayed in the
+Show in Shops and payment? - if yes, the merchant will be displayed in the
 section Shops snd Payments.
 ```
 
